@@ -12,7 +12,7 @@ cin >> name;
 cout << "Enter study hours:";
 cin >> studyHours;
 
-cout << "Name: " << name << "! On Saturday, you need to study " << studyHours << "hours for the exam." << endl;
+cout << "Hello, " << name << "! On Saturday, you need to study " << studyHours << "hours for the exam." << endl;
 
 return 0;
 }
