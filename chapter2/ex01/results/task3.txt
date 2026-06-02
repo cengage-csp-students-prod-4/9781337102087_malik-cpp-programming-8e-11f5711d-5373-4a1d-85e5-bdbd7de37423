@@ -1,0 +1,9 @@
+
+Status: FAILED!
+Check: 1
+Test: The output is structured correctly
+Reason: Unable to find '['(\\*){30,}+(\\n)*.+(Programming Assignment 1).+(\\n)*.+(Computer Programming I ).+(\\n)*.+(Author).+(\\n)*.+(Due Date\\:).+.+(\\n)*(\\*){30,}']' in the program's output.
+Hello,World
+.
+Error : AssertionError - Unable to find (\*){30,}(\n)*.*?(Programming Assignment 1).*?(\n)*.*?(Computer Programming I ).*?(\n)*.*?(Author).*?(\n)*.*?(Due Date\:).*?(\n)*(\*){30,} in the program's output.
+Timestamp: 2026-06-02 05:36:50.028896
