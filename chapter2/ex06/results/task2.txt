@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
-Test: 
-Reason: 
-Error : RuntimeError - There was an issue compiling the c++ files.
-Timestamp: 2026-06-02 06:56:12.674078
+Test: Correct namespace statement used
+Reason: using namespace std;   + ` was found in the program.None
+Timestamp: 2026-06-02 06:57:44.757727

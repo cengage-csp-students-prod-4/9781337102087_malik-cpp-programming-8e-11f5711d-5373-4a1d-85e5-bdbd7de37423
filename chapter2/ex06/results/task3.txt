@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
-Test: 
-Reason: 
-Error : RuntimeError - There was an issue compiling the c++ files.
-Timestamp: 2026-06-02 06:56:13.034373
+Test: Variable `studyHours` declared of type `double`
+Reason: double studyHours; + ` was found in the program.None
+Timestamp: 2026-06-02 06:57:45.247286
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
-Test: 
-Reason: 
-Error : RuntimeError - There was an issue compiling the c++ files.
-Timestamp: 2026-06-02 06:56:13.034520
+Test: Variable `name` declared of type `string`
+Reason: string name; + ` was found in the program.None
+Timestamp: 2026-06-02 06:57:45.247920

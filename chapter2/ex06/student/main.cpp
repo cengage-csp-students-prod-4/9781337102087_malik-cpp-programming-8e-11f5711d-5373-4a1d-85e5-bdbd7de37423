@@ -1,15 +1,16 @@
 #include <iostream>
 #include <string>
+using namespace std;
 int main ()
 {
-using namespace std;
 
 string name;
 double studyHours;
 
 cout << "Enter name:";
-cin>>"Enter study hours:";
-cin>>studyHours;
+cin >> name;
+cout << "Enter study hours:";
+cin >> studyHours;
 
 cout << "Name: " << name << " Study Hours: " << studyHours << endl;
 

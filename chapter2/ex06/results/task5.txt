@@ -1,14 +1,18 @@
 
 Status: FAILED!
 Check: 1
-Test: 
-Reason: 
-Error : RuntimeError - There was an issue compiling the c++ files.
-Timestamp: 2026-06-02 06:56:13.778274
+Test: Test case 1
+Reason: Unable to find '['Hello,', 'joe!', 'On', 'Saturday,', 'you', 'need', 'to', 'study', '10', 'hours', 'for', 'the', 'exam.']' in the program's output.
+Enter name:Enter study hours:Name: joe Study Hours: 10
+.
+Error : AssertionError - Unable to find Hello, in the program's output.
+Timestamp: 2026-06-02 06:57:46.169700
 
 Status: FAILED!
 Check: 2
-Test: 
-Reason: 
-Error : RuntimeError - There was an issue compiling the c++ files.
-Timestamp: 2026-06-02 06:56:13.778430
+Test: Test case 2
+Reason: Unable to find '['Hello,', 'Donald!', 'On', 'Saturday,', 'you', 'need', 'to', 'study', '4.5', 'hours', 'for', 'the', 'exam.']' in the program's output.
+Enter name:Enter study hours:Name: Donald Study Hours: 4.5
+.
+Error : AssertionError - Unable to find Hello, in the program's output.
+Timestamp: 2026-06-02 06:57:46.181963
