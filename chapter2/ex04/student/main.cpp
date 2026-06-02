@@ -1,16 +1,12 @@
-//include statement(s)
-
-//using namespace statement
-
-
+#include <iostream>
+using namespace std;
 int main()
 {
-
-//variable declaration
-
-
-//executable statements
-
-
-//return statement
+double num1, num2, num3, average;
+num1 = 75.35;
+num2 = -35.56;
+num3 = 15.76;
+average = (num1 + num2 + num3) /3.0;
+cout << num1 << " " << num2 << " " << num3 << " " << average << endl;
+return 0;
 }
