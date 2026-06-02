@@ -3,18 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Correct number and order of characters output
 Reason: None
-Timestamp: 2026-06-02 06:14:21.544003
+Timestamp: 2026-06-02 06:16:37.673228
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Correct structure of characters output
-Reason: Unable to find '['^(CCCCCCCCC)\\s{7}\\+\\+\\s{14}\\+\\+$', '^(CC)\\s{14}\\+\\+\\s{14}\\+\\+$', '^(CC)\\s{8}\\+{14}\\s\\s\\+{15}$', '^(CC)\\s{8}\\+{14}\\s\\s\\+{15}$', '^(CC)\\s{14}\\+\\+\\s{14}\\+\\+$', '^(CCCCCCCCC)\\s{7}\\+\\+\\s{14}\\+\\+$']' in the program's output.
-CCCCCCCCC       ++              ++
-CC              ++              ++
-CC        ++++++++++++++  ++++++++++++++
-CC        ++++++++++++++  ++++++++++++++
-CC              ++              ++
-CCCCCCCCC       ++              ++
-.
-Error : AssertionError - Unable to find (CC)\s{8}\+{14}\s\s\+{15} in the program's output.
-Timestamp: 2026-06-02 06:14:21.548227
+Reason: None
+Timestamp: 2026-06-02 06:16:37.678428
