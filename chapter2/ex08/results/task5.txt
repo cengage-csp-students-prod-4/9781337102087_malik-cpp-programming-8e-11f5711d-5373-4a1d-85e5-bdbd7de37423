@@ -3,10 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Prompt for input and store input in `num1` variable
 Reason: cin >> num1 + ` was found in the program.None
-Timestamp: 2026-06-02 23:17:00.835101
+Timestamp: 2026-06-02 23:18:06.091798
 
 Status: PASSED!
 Check: 2
 Test: Prompt for input and store input in `num2` variable
 Reason: cin >> num1 >> num2 + ` was found in the program.None
-Timestamp: 2026-06-02 23:17:00.835507
+Timestamp: 2026-06-02 23:18:06.092201

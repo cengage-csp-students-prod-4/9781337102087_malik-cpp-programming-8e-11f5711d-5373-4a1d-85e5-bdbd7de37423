@@ -1,15 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Output Employee Pay Information"
-Reason: Unable to find '['Name:', 'Pay Rate: $12.5', 'Hours Worked: 11.1', 'Salary: $138.75']' in the program's output.
-Enter two integers: Enter last name: Enter a decimal number between 0 and 70: The value of num1 = 10 and the value of num2 = 1.
-The value of newNum = 21
-The new value of newNum = 32
-Name: Smith
-Pay Rate: $12.5
-Hours Worked: 11.1
-Salary: $ 138.75
-.
-Error : AssertionError - Unable to find Salary: $138.75 in the program's output.
-Timestamp: 2026-06-02 23:17:04.441069
+Reason: None
+Timestamp: 2026-06-02 23:18:09.511381

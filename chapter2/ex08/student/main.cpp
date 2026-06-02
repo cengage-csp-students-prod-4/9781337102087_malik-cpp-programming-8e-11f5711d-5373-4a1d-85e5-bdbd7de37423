@@ -23,6 +23,6 @@ cout << "The new value of newNum = " << newNum << endl;
 cout << "Name: " << name << endl;
 cout << "Pay Rate: $" << RATE << endl;
 cout << "Hours Worked: " << hoursWorked << endl;
-cout << "Salary: $ " << wages << endl;
+cout << "Salary: $" << wages << endl;
 return 0;
 }
