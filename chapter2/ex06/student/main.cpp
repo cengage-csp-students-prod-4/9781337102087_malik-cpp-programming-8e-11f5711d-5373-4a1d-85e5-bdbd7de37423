@@ -7,12 +7,12 @@ int main ()
 string name;
 double studyHours;
 
-cout << "Enter name:";
+cout << "Enter first name:";
 cin >> name;
 cout << "Enter study hours:";
 cin >> studyHours;
 
-cout << "Name: " << name << "! On Saturday, you studied " << studyHours << "hours." << endl;
+cout << "Name: " << name << "! On Saturday, you need to study " << studyHours << "hours for the exam." << endl;
 
 return 0;
 }
