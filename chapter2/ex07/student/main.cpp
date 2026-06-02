@@ -1,8 +1,10 @@
 #include <iostream>
-
+#include <cmath>
 using namespace std;
 
 int main() {
-    // Write your main here
+    double userInput;
+    int roundedValue = round(userInput)
+    cout << "Rounded value: " << roundedValue << endl;
     return 0;
 }
