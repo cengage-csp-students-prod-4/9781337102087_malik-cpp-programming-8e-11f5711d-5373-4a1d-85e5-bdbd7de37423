@@ -1,15 +1,17 @@
-//include statement(s)
-
-//using namespace statement
-
-
-int main()
+#include <iostream>
+#include <string>
+int main ()
 {
-//variable declaration
+using namespace std;
 
+string name;
+double studyHours;
 
-//executable statements
+cout << "Enter name:";
+cin>>"Enter study hours:";
+cin>>studyHours;
 
+cout << "Name: " << name << " Study Hours: " << studyHours << endl;
 
-//return statement
+return 0;
 }
