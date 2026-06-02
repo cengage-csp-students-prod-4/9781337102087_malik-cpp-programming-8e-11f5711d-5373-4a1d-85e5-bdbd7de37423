@@ -14,7 +14,7 @@ cout << "Enter last name: ";
 cin >> name;
 cout << "Enter a decimal number between 0 and 70: ";
 cin >> hoursWorked;
-wages = Rate * hoursWorked;
+wages = RATE * hoursWorked;
 cout << "The value of num1 = " << num1 << " and the value of num2 = " << num2 << "." << endl;
 newNum = (num1 * 2) + num2;
 cout << "The value of newNum = " << newNum << endl;
