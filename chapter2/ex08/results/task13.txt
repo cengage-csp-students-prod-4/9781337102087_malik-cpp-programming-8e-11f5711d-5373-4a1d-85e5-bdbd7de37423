@@ -1,28 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Test case 1
-Reason: Unable to find '['num1', '13', 'num2', '28', '54', '65', 'Name', 'Jacobson', 'Pay Rate', '12.5', 'Hours Worked', '48.3', 'Salary', '603.75']' in the program's output.
-Enter two integers: Enter last name: Enter a decimal number between 0 and 70: The value of num1 = 13 and the value of num2 = 28.
-The value of newNum = 54
-Name: Jacobson
-Pay Rate: $12.5
-Hours Worked: 48.3
-Salery: $ 603.75
-.
-Error : AssertionError - Unable to find a number close enough to 65 (+/-0.00) in the program's output.
-Timestamp: 2026-06-02 23:12:09.988018
+Reason: None
+Timestamp: 2026-06-02 23:17:05.018544
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Test case 2
-Reason: Unable to find '['num1', '32', 'num2', '15', '79', '90', 'Name', 'Crawford', 'Pay Rate', '12.5', 'Hours Worked', '58.45', 'Salary', '730.625']' in the program's output.
-Enter two integers: Enter last name: Enter a decimal number between 0 and 70: The value of num1 = 32 and the value of num2 = 15.
-The value of newNum = 79
-Name: Crawford
-Pay Rate: $12.5
-Hours Worked: 58.45
-Salery: $ 730.625
-.
-Error : AssertionError - Unable to find a number close enough to 90 (+/-0.00) in the program's output.
-Timestamp: 2026-06-02 23:12:09.995915
+Reason: None
+Timestamp: 2026-06-02 23:17:05.024728

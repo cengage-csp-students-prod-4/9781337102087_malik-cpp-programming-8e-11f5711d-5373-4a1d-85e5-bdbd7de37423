@@ -3,4 +3,4 @@ Status: PASSED!
 Check: 1
 Test: Prompt for input and store input in `name` variable
 Reason: cin >> name + ` was found in the program.None
-Timestamp: 2026-06-02 23:12:06.411648
+Timestamp: 2026-06-02 23:17:01.290542
