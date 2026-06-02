@@ -1,5 +1,5 @@
 #include <iostream>
-#include <math>
+#include <cmath>
 using namespace std;
 int main() {
     double num1, num2, num3, num4, num5;

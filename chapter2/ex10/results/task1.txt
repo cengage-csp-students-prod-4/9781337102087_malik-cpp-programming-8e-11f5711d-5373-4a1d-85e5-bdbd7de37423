@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
-Test: 
-Reason: 
-Error : RuntimeError - There was an issue compiling the c++ files.
-Timestamp: 2026-06-02 23:44:18.390793
+Test: Test case 1: Checking the sum of positive floating-point numbers.
+Reason: None
+Timestamp: 2026-06-02 23:45:11.481263
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
-Test: 
-Reason: 
-Error : RuntimeError - There was an issue compiling the c++ files.
-Timestamp: 2026-06-02 23:44:18.391062
+Test: Test case 2: Evaluating the result of mixed floating-point arithmetic.
+Reason: None
+Timestamp: 2026-06-02 23:45:11.486038
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
-Test: 
-Reason: 
-Error : RuntimeError - There was an issue compiling the c++ files.
-Timestamp: 2026-06-02 23:44:18.391198
+Test: Test case 3: Assessing the calculation with negative and positive floating-point numbers.
+Reason: None
+Timestamp: 2026-06-02 23:45:11.490209
