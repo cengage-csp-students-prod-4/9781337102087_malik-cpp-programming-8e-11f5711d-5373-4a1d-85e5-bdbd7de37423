@@ -3,10 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Variable `studyHours` declared of type `double`
 Reason: double studyHours; + ` was found in the program.None
-Timestamp: 2026-06-02 06:57:45.247286
+Timestamp: 2026-06-02 06:59:31.343942
 
 Status: PASSED!
 Check: 2
 Test: Variable `name` declared of type `string`
 Reason: string name; + ` was found in the program.None
-Timestamp: 2026-06-02 06:57:45.247920
+Timestamp: 2026-06-02 06:59:31.344457
