@@ -4,7 +4,8 @@ using namespace std;
 
 int main() {
     double userInput;
-    int roundedValue = round(userInput)
+    cin >> userInput;
+    int roundedValue = round(userInput);
     cout << "Rounded value: " << roundedValue << endl;
     return 0;
 }
