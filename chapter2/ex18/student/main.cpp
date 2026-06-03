@@ -14,7 +14,7 @@ int main() {
     cin >> payRate;
     cout << "Enter the number of hours worked: ";
     cin >> hoursWorked;
-    totalGrossIncome += (payRate * hoursWorked);
+    totalGrossIncome = (payRate * hoursWorked);
     double taxDeduction = totalGrossIncome * TAX_RATE;
     double netIncome = totalGrossIncome - taxDeduction;
     double clothesExpenses = netIncome * CLOTHES_PERCENT;
