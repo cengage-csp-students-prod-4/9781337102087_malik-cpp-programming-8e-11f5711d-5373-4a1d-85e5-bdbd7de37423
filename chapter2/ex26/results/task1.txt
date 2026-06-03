@@ -1,0 +1,24 @@
+
+Status: FAILED!
+Check: 1
+Test: Test case 1
+Reason: Unable to find '['66.358']' in the program's output.
+Enter the length and width of the door (in feet): Enter the length and width of each window (in feet): Enter the length and width of the bookshelf (in feet): Enter the length, width, and height of the room (in feet): 
+ --- Results ---
+Paintable area: 82 square feet.
+Amount of paint needed: 0.683333 gallons.
+.
+Error : AssertionError - Unable to find a number close enough to 66.358 (+/-0.00) in the program's output.
+Timestamp: 2026-06-03 22:17:50.856597
+
+Status: FAILED!
+Check: 2
+Test: Test case 2
+Reason: Unable to find '['66.944']' in the program's output.
+Enter the length and width of the door (in feet): Enter the length and width of each window (in feet): Enter the length and width of the bookshelf (in feet): Enter the length, width, and height of the room (in feet): 
+ --- Results ---
+Paintable area: 4576 square feet.
+Amount of paint needed: 38.1333 gallons.
+.
+Error : AssertionError - Unable to find a number close enough to 66.944 (+/-0.00) in the program's output.
+Timestamp: 2026-06-03 22:17:50.862386
