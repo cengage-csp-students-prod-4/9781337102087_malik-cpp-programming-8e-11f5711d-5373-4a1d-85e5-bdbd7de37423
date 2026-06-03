@@ -25,7 +25,7 @@ int main() {
     double totalServiceCharges = buyServiceCharge + sellServiceCharge;
     double netGainOrLoss = totalReceived - totalInvested;
 
-    cout << fixed << showpoint;
+    cout << fixed << showpoint << setprecision(2);
 
     cout << "Total amount invested: $" << setprecision(3) << totalInvested << endl;
     cout << "Total amount received: $" << setprecision(2) << totalReceived << endl;
