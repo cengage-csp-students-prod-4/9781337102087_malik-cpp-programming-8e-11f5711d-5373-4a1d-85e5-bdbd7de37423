@@ -1,24 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Test case 1
-Reason: Unable to find '['3335.79', '3750.54', '106.412', '414.748']' in the program's output.
-Enter the buying price of each share: Enter the selling price of each share: Enter the number of shares sold: Total amount invested: $3.3e+03
-Total amount received: $3.8e+03
-Total service charges: $106
-Amount gained or lost: $415
-.
-Error : AssertionError - Unable to find a number close enough to 3335.79 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 21:39:21.507633
+Reason: None
+Timestamp: 2026-06-03 21:40:18.509233
 
 Status: FAILED!
 Check: 2
 Test: Test case 2
 Reason: Unable to find '['25422.7', '6571.54', '475.779', '-18851.2']' in the program's output.
-Enter the buying price of each share: Enter the selling price of each share: Enter the number of shares sold: Total amount invested: $2.5e+04
-Total amount received: $6.6e+03
-Total service charges: $476
-Amount gained or lost: $-1.89e+04
+Enter the buying price of each share: Enter the selling price of each share: Enter the number of shares sold: Total amount invested: $25422.71
+Total amount received: $6571.54
+Total service charges: $475.779
+Amount gained or lost: $-18851.169
 .
 Error : AssertionError - Unable to find a number close enough to 25422.7 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 21:39:21.520655
+Timestamp: 2026-06-03 21:40:18.513322
