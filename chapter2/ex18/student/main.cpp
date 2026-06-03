@@ -16,8 +16,8 @@ int main() {
 
     cout << "Enter the pay rate per hour: $";
     cin >> payRate;
-    for (int i = 1; i <= 5; i++) {
-        cout << "Enter the number of hours worked for week " << i << ": ";
+    for (int i = 0; i < 5; i++) {
+        cout << "Enter the number of hours worked: ";
         cin >> hoursWorked;
         totalHours += hoursWorked;
     }

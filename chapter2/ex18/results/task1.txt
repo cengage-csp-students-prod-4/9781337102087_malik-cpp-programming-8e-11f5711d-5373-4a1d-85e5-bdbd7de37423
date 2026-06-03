@@ -3,7 +3,7 @@ Status: FAILED!
 Check: 1
 Test: Test case 1
 Reason: Unable to find '['1380', '1186.8', '118.68', '11.868', '264.063', '132.031']' in the program's output.
-Enter the pay rate per hour: $Enter the number of hours worked for week 1: Enter the number of hours worked for week 2: Enter the number of hours worked for week 3: Enter the number of hours worked for week 4: Enter the number of hours worked for week 5: 
+Enter the pay rate per hour: $Enter the number of hours worked: Enter the number of hours worked: Enter the number of hours worked: Enter the number of hours worked: Enter the number of hours worked: 
 Income before taxes: $1380.00
 Income after taxes: $1186.80
 Money spent on clothes and other accessories: $118.68
@@ -12,13 +12,13 @@ Money spent to buy savings bonds: $264.06
 Money spent by parents to buy additional savings bonds: $132.03
 .
 Error : AssertionError - Unable to find a number close enough to 11.868 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 20:15:04.056248
+Timestamp: 2026-06-03 20:16:34.233998
 
 Status: FAILED!
 Check: 2
 Test: Test case 2
 Reason: Unable to find '['2201', '1892.86', '189.286', '18.9286', '421.161', '210.581']' in the program's output.
-Enter the pay rate per hour: $Enter the number of hours worked for week 1: Enter the number of hours worked for week 2: Enter the number of hours worked for week 3: Enter the number of hours worked for week 4: Enter the number of hours worked for week 5: 
+Enter the pay rate per hour: $Enter the number of hours worked: Enter the number of hours worked: Enter the number of hours worked: Enter the number of hours worked: Enter the number of hours worked: 
 Income before taxes: $2201.00
 Income after taxes: $1892.86
 Money spent on clothes and other accessories: $189.29
@@ -27,4 +27,4 @@ Money spent to buy savings bonds: $421.16
 Money spent by parents to buy additional savings bonds: $210.58
 .
 Error : AssertionError - Unable to find a number close enough to 189.286 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 20:15:04.062197
+Timestamp: 2026-06-03 20:16:34.238460
