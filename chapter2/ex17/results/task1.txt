@@ -1,14 +1,9 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Test case 3
-Reason: Unable to find '['950', '2944.26', '1140']' in the program's output.
-Enter the total amount of milk produced: Enter the cost of producing one liter of milk: Enter the profit on each carton of milk: The number of milk cartons needed to hold milk: 950
-The cost of producing milk: 2944.26
-The profit for producing milk: 1139.86
-.
-Error : AssertionError - Unable to find a number close enough to 1140 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 19:44:04.084192
+Reason: None
+Timestamp: 2026-06-03 19:45:57.669045
 
 Status: FAILED!
 Check: 2
@@ -16,18 +11,13 @@ Test: Test case 2
 Reason: Unable to find '['931', '686.478', '316.54']' in the program's output.
 Enter the total amount of milk produced: Enter the cost of producing one liter of milk: Enter the profit on each carton of milk: The number of milk cartons needed to hold milk: 931
 The cost of producing milk: 686.48
-The profit for producing milk: 316.65
+The profit for producing milk: 316.54
 .
 Error : AssertionError - Unable to find a number close enough to 686.478 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 19:44:04.089970
+Timestamp: 2026-06-03 19:45:57.677046
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Test case 1
-Reason: Unable to find '['1190', '2520', '371.28']' in the program's output.
-Enter the total amount of milk produced: Enter the cost of producing one liter of milk: Enter the profit on each carton of milk: The number of milk cartons needed to hold milk: 1190
-The cost of producing milk: 2520.00
-The profit for producing milk: 371.43
-.
-Error : AssertionError - Unable to find a number close enough to 371.28 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 19:44:04.095926
+Reason: None
+Timestamp: 2026-06-03 19:45:57.681970
