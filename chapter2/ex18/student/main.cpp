@@ -1,5 +1,4 @@
 #include <iostream>
-#include <iomanip>
 using namespace std;
 
 int main() {
@@ -16,11 +15,13 @@ int main() {
 
     cout << "Enter the pay rate per hour: $";
     cin >> payRate;
+
     for (int i = 0; i < 5; i++) {
         cout << "Enter the number of hours worked: ";
         cin >> hoursWorked;
         totalHours += hoursWorked;
     }
+
     totalGrossIncome = payRate * totalHours;
 
     double taxDeduction = totalGrossIncome * TAX_RATE;
@@ -30,7 +31,6 @@ int main() {
     double remainingIncome = netIncome - clothesExpenses - schoolSupplies;
     double savingsBonds = remainingIncome * BONDS_PERCENT;
     double parentsContribution = savingsBonds * PARENT_MATCH_RATE;
-    cout << fixed << setprecision(2); 
 
     cout << endl;
     cout << "Income before taxes: $" << totalGrossIncome << endl;
