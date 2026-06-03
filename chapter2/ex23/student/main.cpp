@@ -27,10 +27,10 @@ int main() {
 
     cout << fixed << showpoint;
 
-    cout << "Total amount invested: $" << setprecision(1) << totalInvested << endl;
+    cout << "Total amount invested: $" << setprecision(2) << totalInvested << endl;
     cout << "Total amount received: $" << setprecision(2) << totalReceived << endl;
-    cout << "Total service charges: $" << setprecision(3) << totalServiceCharges << endl;
-    cout << "Amount gained or lost: $" << setprecision(3) << netGainOrLoss << endl;
+    cout << "Total service charges: $" << setprecision(2) << totalServiceCharges << endl;
+    cout << "Amount gained or lost: $" << setprecision(2) << netGainOrLoss << endl;
 
     return 0;
 }
