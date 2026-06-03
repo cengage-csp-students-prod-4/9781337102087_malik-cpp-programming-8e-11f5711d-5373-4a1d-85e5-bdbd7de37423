@@ -10,7 +10,7 @@ int main() {
     cout << "Enter the total amount of milk produced: ";
     cin >> totalMilk;
     cout << "Enter the cost of producing one liter of milk: ";
-    cin >> costPerLiter
+    cin >> costPerLiter;
     cout << "Enter the profit on each carton of milk: ";
     cin >> profitPerCarton;
     int cartonsNeeded = round(totalMilk / CARTON_CAPACITY);
