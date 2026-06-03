@@ -12,7 +12,7 @@ Money spent to buy savings bonds: $91.85
 Money spent by parents to buy additional savings bonds: $45.92
 .
 Error : AssertionError - Unable to find a number close enough to 1380 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 20:05:37.665772
+Timestamp: 2026-06-03 20:05:58.090276
 
 Status: FAILED!
 Check: 2
@@ -27,4 +27,4 @@ Money spent to buy savings bonds: $59.32
 Money spent by parents to buy additional savings bonds: $29.66
 .
 Error : AssertionError - Unable to find a number close enough to 2201 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 20:05:37.670010
+Timestamp: 2026-06-03 20:05:58.095169
