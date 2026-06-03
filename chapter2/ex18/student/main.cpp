@@ -2,7 +2,7 @@
 #include <iomanip>
 using namespace std;
 int main() {
-     const double TAX_RATE = 0.14;
+    const double TAX_RATE = 0.14;
     const double CLOTHES_PERCENT = 0.10;
     const double SUPPLIES_PERCENT = 0.01;
     const double BONDS_PERCENT = 0.25;
@@ -16,12 +16,11 @@ int main() {
     cout << "Enter the number of hours worked for week " << week << ": ";
     cin >> hoursWorked;
     totalGrossIncome += (payRate * hoursWorked);
+    }
     double taxDeduction = totalGrossIncome * TAX_RATE;
     double netIncome = totalGrossIncome - taxDeduction;
-
     double clothesExpenses = netIncome * CLOTHES_PERCENT;
     double schoolSupplies = netIncome * SUPPLIES_PERCENT;
-
     double remainingIncome = netIncome - clothesExpenses - schoolSupplies;
     double savingsBonds = remainingIncome * BONDS_PERCENT;
     double parentsContribution = savingsBonds * PARENT_MATCH_RATE;
@@ -33,5 +32,4 @@ int main() {
     cout << "Money spent to buy savings bonds: $" << savingsBonds << endl;
     cout << "Money spent by parents to buy additional savings bonds: $" << parentsContribution << endl;
     return 0;
-}
 }
