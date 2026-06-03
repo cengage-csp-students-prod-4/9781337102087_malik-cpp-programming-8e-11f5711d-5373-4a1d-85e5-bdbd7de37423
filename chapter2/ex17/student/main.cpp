@@ -15,10 +15,10 @@ int main() {
     cin >> profitPerCarton;
     int cartonsNeeded = static_cast<int>((totalMilk / CARTON_CAPACITY) + 0.5);
     double totalCost = totalMilk * costPerLiter;
-     double totalProfit = cartonsNeeded * profitPerCarton;
-    cout << fixed << setprecision(2);
+    double totalProfit = cartonsNeeded * profitPerCarton;
     cout << "The number of milk cartons needed to hold milk: " << cartonsNeeded << endl;
     cout << "The cost of producing milk: " << totalCost << endl;
+    cout << fixed << setprecision(2);
     cout << "The profit for producing milk: " << totalProfit << endl;
     return 0;
 }
