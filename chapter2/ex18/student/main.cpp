@@ -22,12 +22,13 @@ int main() {
     double remainingIncome = netIncome - clothesExpenses - schoolSupplies;
     double savingsBonds = remainingIncome * BONDS_PERCENT;
     double parentsContribution = savingsBonds * PARENT_MATCH_RATE;
-    cout << fixed << setprecision(2) << endl;
+    cout << endl;
     cout << "Income before taxes: $" << totalGrossIncome << endl;
     cout << "Income after taxes: $" << netIncome << endl;
     cout << "Money spent on clothes and other accessories: $" << clothesExpenses << endl;
     cout << "Money spent on school supplies: $" << schoolSupplies << endl;
     cout << "Money spent to buy savings bonds: $" << savingsBonds << endl;
     cout << "Money spent by parents to buy additional savings bonds: $" << parentsContribution << endl;
+
     return 0;
 }
