@@ -1,0 +1,21 @@
+
+Status: PASSED!
+Check: 1
+Test: Test case 1
+Reason: None
+Timestamp: 2026-06-03 20:38:47.432367
+
+Status: FAILED!
+Check: 2
+Test: Test case 2
+Reason: Unable to find '['33648.3', '34216.1', '269.112', '458.36']' in the program's output.
+Enter the purchasing cost of the car: $Enter the minimum to be added to the purchasing cost: $Enter the maximum to be added to the purchasing cost: $Enter the salesperson's fixed commission: $Enter the percentage of the commission (e.g., 30 for 30%): --------------------------------------------------
+OUTPUT RESULTS:
+--------------------------------------------------
+Minimum Selling Price: $33648.32
+Maximum Selling Price: $34216.12
+Salesperson's Commission Range: $269.11 to $458.36
+--------------------------------------------------
+.
+Error : AssertionError - Unable to find a number close enough to 33648.3 (+/-0.00) in the program's output.
+Timestamp: 2026-06-03 20:38:47.440730
