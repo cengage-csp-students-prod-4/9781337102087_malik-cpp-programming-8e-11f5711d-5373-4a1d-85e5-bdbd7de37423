@@ -1,33 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Test case 1
-Reason: Unable to find '['1296', '1862', '349.92']' in the program's output.
-Number of milk cartons needed: -2147483648
-Cost of producing milk: $8042818287722678552642937569557864749720822821411430403116055213597696983434136751649626919996305160640248076959399479522544346690805843677104660301823616011312882082666731994084444923215891086216371681723972321280.00
-Profit for producing milk: $-579820584.96
-.
-Error : AssertionError - Unable to find a number close enough to 1296 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 01:14:29.952382
+Reason: None
+Timestamp: 2026-06-03 01:18:48.172813
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Test case 2
-Reason: Unable to find '['931', '1337.75', '251.37']' in the program's output.
-Number of milk cartons needed: -2147483648
-Cost of producing milk: $8042818287722678552642937569557864749720822821411430403116055213597696983434136751649626919996305160640248076959399479522544346690805843677104660301823616011312882082666731994084444923215891086216371681723972321280.00
-Profit for producing milk: $-579820584.96
-.
-Error : AssertionError - Unable to find a number close enough to 931 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 01:14:29.969540
+Reason: None
+Timestamp: 2026-06-03 01:18:48.178491
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Test case 3
-Reason: Unable to find '['950', '1364.41', '256.5']' in the program's output.
-Number of milk cartons needed: -2147483648
-Cost of producing milk: $8042818287722678552642937569557864749720822821411430403116055213597696983434136751649626919996305160640248076959399479522544346690805843677104660301823616011312882082666731994084444923215891086216371681723972321280.00
-Profit for producing milk: $-579820584.96
-.
-Error : AssertionError - Unable to find a number close enough to 950 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 01:14:29.973946
+Reason: None
+Timestamp: 2026-06-03 01:18:48.183434
