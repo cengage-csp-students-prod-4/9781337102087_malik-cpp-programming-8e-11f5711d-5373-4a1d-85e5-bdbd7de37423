@@ -1,15 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Test case 1
-Reason: Unable to find '['40']' in the program's output.
-40.0909
-.
-Error : AssertionError - Unable to find a number close enough to 40 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 21:21:18.150634
+Reason: None
+Timestamp: 2026-06-03 21:21:57.875316
 
 Status: PASSED!
 Check: 2
 Test: Test case 2
 Reason: None
-Timestamp: 2026-06-03 21:21:18.156321
+Timestamp: 2026-06-03 21:21:57.879624
