@@ -12,11 +12,9 @@ int main() {
     double totalGrossIncome = 0.0;
     cout << "Enter the pay rate per hour: $";
     cin >> payRate;
-    for (int week = 1; week <= 5; week++) {
     cout << "Enter the number of hours worked: ";
     cin >> hoursWorked;
     totalGrossIncome += (payRate * hoursWorked);
-    }
     double taxDeduction = totalGrossIncome * TAX_RATE;
     double netIncome = totalGrossIncome - taxDeduction;
     double clothesExpenses = netIncome * CLOTHES_PERCENT;
