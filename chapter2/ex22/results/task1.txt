@@ -3,16 +3,13 @@ Status: FAILED!
 Check: 1
 Test: Test case 1
 Reason: Unable to find '['40']' in the program's output.
-Enter the amount of rice a bag can hold (in pounds): 170106729640.0909
+40.0909
 .
 Error : AssertionError - Unable to find a number close enough to 40 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 21:20:23.845454
+Timestamp: 2026-06-03 21:21:18.150634
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Test case 2
-Reason: Unable to find '['2205']' in the program's output.
-Enter the amount of rice a bag can hold (in pounds): 17010672962205
-.
-Error : AssertionError - Unable to find a number close enough to 2205 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 21:20:23.850832
+Reason: None
+Timestamp: 2026-06-03 21:21:18.156321
