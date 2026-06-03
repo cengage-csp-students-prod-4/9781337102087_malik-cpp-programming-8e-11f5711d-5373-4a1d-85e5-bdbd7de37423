@@ -12,7 +12,7 @@ int main() {
     cout << "Enter the marked up percentage";
     cin >> markupPercentage;
     cout << "Enter the sales tax rate: ";
-    cin >> salesTaxRates;
+    cin >> salesTaxRate;
     cout << endl;
     sellingPrice = originalPrice * (1 + (markupPercentage / 100.00));
     salesTax = sellingPrice * (salesTaxRate / 100.0);
