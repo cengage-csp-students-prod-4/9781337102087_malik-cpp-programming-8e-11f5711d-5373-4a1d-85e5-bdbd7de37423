@@ -1,24 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Test case 1
-Reason: Unable to find '['a number written in scientific notation that starts with 6.25 (i.e. 6.25602e-09)']' in the program's output.
-Enter the mass of the first body (M1): Enter the mass of the second body (M2): Enter the distance between them (d): The force between the bodies is: 0.00 dyn
-.
-Error : AssertionError - Unable to find 6\.25\d+.\- in the program's output.
-Timestamp: 2026-06-03 21:02:52.783236
+Reason: None
+Timestamp: 2026-06-03 21:04:07.878086
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Test case 2
-Reason: Unable to find '['a number written in scientific notation that starts with 2.158 (i.e. 2.15855e-05)']' in the program's output.
-Enter the mass of the first body (M1): Enter the mass of the second body (M2): Enter the distance between them (d): The force between the bodies is: 0.00 dyn
-.
-Error : AssertionError - Unable to find 2\.158\d+.\- in the program's output.
-Timestamp: 2026-06-03 21:02:52.791947
+Reason: None
+Timestamp: 2026-06-03 21:04:07.882300
 
 Status: PASSED!
 Check: 3
 Test: Test case 3
 Reason: None
-Timestamp: 2026-06-03 21:02:52.796454
+Timestamp: 2026-06-03 21:04:07.886496

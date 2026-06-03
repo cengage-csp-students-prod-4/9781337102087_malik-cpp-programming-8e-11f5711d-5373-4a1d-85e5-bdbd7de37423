@@ -12,7 +12,6 @@ int main() {
     cin >> d;
 
     double force = K * (m1 * m2) / (d * d);
-    cout << fixed << setprecision(2);
         std::cout << "The force between the bodies is: " << force << " dyn" << endl;
     return 0;
 }
