@@ -1,0 +1,22 @@
+
+Status: FAILED!
+Check: 1
+Test: Test case 1
+Reason: Unable to find '[' 0.037']' in the program's output.
+Enter the radius of the pizza: Enter the price of the pizza: 
+The price per square inch is0.037302
+.
+Error : AssertionError - Unable to find  0.037 in the program's output.
+Timestamp: 2026-06-03 00:44:11.291192
+
+Status: PASSED!
+Check: 2
+Test: Test case 2
+Reason: None
+Timestamp: 2026-06-03 00:44:11.296409
+
+Status: PASSED!
+Check: 3
+Test: Test case 3
+Reason: None
+Timestamp: 2026-06-03 00:44:11.300737
