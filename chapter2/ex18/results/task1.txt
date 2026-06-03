@@ -3,28 +3,28 @@ Status: FAILED!
 Check: 1
 Test: Test case 1
 Reason: Unable to find '['1380', '1186.8', '118.68', '11.868', '264.063', '132.031']' in the program's output.
-Enter the pay rate per hour: $Enter the number of hours worked: 
-Income before taxes: $480
-Income after taxes: $412.8
-Money spent on clothes and other accessories: $41.28
-Money spent on school supplies: $4.128
-Money spent to buy savings bonds: $91.848
-Money spent by parents to buy additional savings bonds: $45.924
+Enter the pay rate per hour: $Enter the number of hours worked for week 1: Enter the number of hours worked for week 2: Enter the number of hours worked for week 3: Enter the number of hours worked for week 4: Enter the number of hours worked for week 5: 
+Income before taxes: $1380.00
+Income after taxes: $1186.80
+Money spent on clothes and other accessories: $118.68
+Money spent on school supplies: $11.87
+Money spent to buy savings bonds: $264.06
+Money spent by parents to buy additional savings bonds: $132.03
 .
-Error : AssertionError - Unable to find a number close enough to 1380 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 20:11:07.938536
+Error : AssertionError - Unable to find a number close enough to 11.868 (+/-0.00) in the program's output.
+Timestamp: 2026-06-03 20:15:04.056248
 
 Status: FAILED!
 Check: 2
 Test: Test case 2
 Reason: Unable to find '['2201', '1892.86', '189.286', '18.9286', '421.161', '210.581']' in the program's output.
-Enter the pay rate per hour: $Enter the number of hours worked: 
-Income before taxes: $310
-Income after taxes: $266.6
-Money spent on clothes and other accessories: $26.66
-Money spent on school supplies: $2.666
-Money spent to buy savings bonds: $59.3185
-Money spent by parents to buy additional savings bonds: $29.6593
+Enter the pay rate per hour: $Enter the number of hours worked for week 1: Enter the number of hours worked for week 2: Enter the number of hours worked for week 3: Enter the number of hours worked for week 4: Enter the number of hours worked for week 5: 
+Income before taxes: $2201.00
+Income after taxes: $1892.86
+Money spent on clothes and other accessories: $189.29
+Money spent on school supplies: $18.93
+Money spent to buy savings bonds: $421.16
+Money spent by parents to buy additional savings bonds: $210.58
 .
-Error : AssertionError - Unable to find a number close enough to 2201 (+/-0.00) in the program's output.
-Timestamp: 2026-06-03 20:11:07.942761
+Error : AssertionError - Unable to find a number close enough to 189.286 (+/-0.00) in the program's output.
+Timestamp: 2026-06-03 20:15:04.062197
