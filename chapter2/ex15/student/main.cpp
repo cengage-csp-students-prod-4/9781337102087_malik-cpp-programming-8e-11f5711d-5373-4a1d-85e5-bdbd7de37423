@@ -14,6 +14,6 @@ int main() {
     area = PI * radius * radius;
     pricePerSquareInch = price / area;
     cout << fixed << setprecision(6);
-    cout << "\nThe price per square inch is" << pricePerSquareInch << endl;
+    cout << "The price per square inch is: " << pricePerSquareInch << endl;
     return 0;
 }
