@@ -13,7 +13,7 @@ int main() {
     cin >> costPerLiter
     cout << "Enter the profit on each carton of milk: ";
     cin >> profitPerCarton;
-    int cartonsNeeded = static_cast<int>(round(totalMilk / CARTON_CAPACITY));
+    int cartonsNeeded = round(totalMilk / CARTON_CAPACITY);
     double totalCost = totalMilk * costPerLiter;
     double totalProfit = (totalMilk / CARTON_CAPACITY) * profitPerCarton;
     cout << fixed << setprecision(2);
