@@ -18,8 +18,9 @@ int main() {
 
     totalCaloriesNeeded = numStudents * caloriesPerStudent;
     caloriesPerPoundFruit = caloriesPerPoundNuts / 0.70;
+    poundsEach = totalCaloriesNeeded / (caloriesPerPoundNuts + caloriesPerPoundFruit);
 
-    cout << fixed << setprecision(2);
+    cout << fixed << setprecision(3);
     cout << "Amount of nuts needed: " << poundsEach << "lbs" << endl;
     cout << "Amount of dried fruit needed: " << poundsEach << "lbs" << endl;
     return 0;
