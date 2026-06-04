@@ -1,0 +1,20 @@
+
+Status: FAILED!
+Check: 1
+Test: Test case 1
+Reason: Unable to find '['56.539', '56.539']' in the program's output.
+Enter the number of students: Enter the calories required per student: Enter the calroeis per pound of nuts: Amount of nuts needed: 0.00lbs
+Amount of dried fruit needed: 0.00lbs
+.
+Error : AssertionError - Unable to find a number close enough to 56.539 (+/-0.00) in the program's output.
+Timestamp: 2026-06-04 20:12:47.456801
+
+Status: FAILED!
+Check: 2
+Test: Test case 2
+Reason: Unable to find '['18.863', '18.863']' in the program's output.
+Enter the number of students: Enter the calories required per student: Enter the calroeis per pound of nuts: Amount of nuts needed: 0.00lbs
+Amount of dried fruit needed: 0.00lbs
+.
+Error : AssertionError - Unable to find a number close enough to 18.863 (+/-0.00) in the program's output.
+Timestamp: 2026-06-04 20:12:47.461560
