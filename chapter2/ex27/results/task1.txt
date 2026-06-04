@@ -1,0 +1,18 @@
+
+Status: FAILED!
+Check: 1
+Test: Test case 2
+Reason: Unable to find '['40.259']' in the program's output.
+Enter the length and width of the door (in feet): Enter the length and width of each window (in feet): Enter the length and width of the bookshelf (in feet): Enter the length, width, and height of the room (in feet): Enter the area that can be painted with one gallon of paint (in sq ft): Amount of paint needed: 45.3346 gallons
+.
+Error : AssertionError - Unable to find a number close enough to 40.259 (+/-0.00) in the program's output.
+Timestamp: 2026-06-04 19:43:46.951217
+
+Status: FAILED!
+Check: 2
+Test: Test case 1
+Reason: Unable to find '['398.15']' in the program's output.
+Enter the length and width of the door (in feet): Enter the length and width of each window (in feet): Enter the length and width of the bookshelf (in feet): Enter the length, width, and height of the room (in feet): Enter the area that can be painted with one gallon of paint (in sq ft): Amount of paint needed: 6.39167 gallons
+.
+Error : AssertionError - Unable to find a number close enough to 398.15 (+/-0.00) in the program's output.
+Timestamp: 2026-06-04 19:43:46.957817
