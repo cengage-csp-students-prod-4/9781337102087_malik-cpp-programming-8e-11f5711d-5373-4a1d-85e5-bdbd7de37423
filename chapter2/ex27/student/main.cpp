@@ -29,8 +29,6 @@ int main() {
     double paintableArea = totalWallArea - (doorArea + windowsArea + bookshelfArea);
     double gallonsNeeded = paintableArea / areaPerGallon;
 
-    cout << fixed << setprecision(3);
-
     cout << "Paintable area: " << paintableArea << " sq ft" << endl;
     cout << "Amount of paint needed: " << gallonsNeeded << " gallons" << endl;
     return 0;
