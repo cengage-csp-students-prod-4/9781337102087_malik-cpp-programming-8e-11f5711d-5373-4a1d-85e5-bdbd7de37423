@@ -3,14 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Test case 1
 Reason: None
-Timestamp: 2026-06-04 20:14:48.132405
+Timestamp: 2026-06-04 20:16:08.816980
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Test case 2
-Reason: Unable to find '['18.863', '18.863']' in the program's output.
-Enter the number of students: Enter the calories required per student: Enter the calroeis per pound of nuts: Amount of nuts needed: 18.864lbs
-Amount of dried fruit needed: 18.864lbs
-.
-Error : AssertionError - Unable to find a number close enough to 18.863 (+/-0.00) in the program's output.
-Timestamp: 2026-06-04 20:14:48.135604
+Reason: None
+Timestamp: 2026-06-04 20:16:08.823022
