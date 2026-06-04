@@ -3,18 +3,18 @@ Status: FAILED!
 Check: 1
 Test: Test case 2
 Reason: Unable to find '['40.259']' in the program's output.
-Enter the length and width of the door (in feet): Enter the length and width of each window (in feet): Enter the length and width of the bookshelf (in feet): Enter the length, width, and height of the room (in feet): Enter the area that can be painted with one gallon of paint (in sq ft): Paintable area: 4687.600 sq ft
-Amount of paint needed: 45.335 gallons
+Enter the length and width of the door (in feet): Enter the length and width of each window (in feet): Enter the length and width of the bookshelf (in feet): Enter the length, width, and height of the room (in feet): Enter the area that can be painted with one gallon of paint (in sq ft): Paintable area: 4576.000 sq ft
+Amount of paint needed: 44.255 gallons
 .
 Error : AssertionError - Unable to find a number close enough to 40.259 (+/-0.00) in the program's output.
-Timestamp: 2026-06-04 19:48:53.403604
+Timestamp: 2026-06-04 19:51:20.940091
 
 Status: FAILED!
 Check: 2
 Test: Test case 1
 Reason: Unable to find '['398.15']' in the program's output.
-Enter the length and width of the door (in feet): Enter the length and width of each window (in feet): Enter the length and width of the bookshelf (in feet): Enter the length, width, and height of the room (in feet): Enter the area that can be painted with one gallon of paint (in sq ft): Paintable area: 1534.000 sq ft
-Amount of paint needed: 6.392 gallons
+Enter the length and width of the door (in feet): Enter the length and width of each window (in feet): Enter the length and width of the bookshelf (in feet): Enter the length, width, and height of the room (in feet): Enter the area that can be painted with one gallon of paint (in sq ft): Paintable area: 82.000 sq ft
+Amount of paint needed: 0.342 gallons
 .
 Error : AssertionError - Unable to find a number close enough to 398.15 (+/-0.00) in the program's output.
-Timestamp: 2026-06-04 19:48:53.408535
+Timestamp: 2026-06-04 19:51:20.945185

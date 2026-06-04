@@ -26,7 +26,7 @@ int main() {
     double windowsArea = 2 * (windowLength * windowWidth);
     double bookshelfArea = bookshelfLength * bookshelfWidth;
 
-    double paintableArea = totalWallArea - (doorArea + windowsArea) + bookshelfArea;
+    double paintableArea = totalWallArea - (doorArea + windowsArea + bookshelfArea);
     double gallonsNeeded = paintableArea / areaPerGallon;
 
     cout << fixed << setprecision(3);
